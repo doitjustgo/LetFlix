@@ -1,0 +1,53 @@
+.logoContainer {
+  text-align: center;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 40px;
+  margin: 0 auto;
+  justify-items: center;
+}
+
+.oneMovieBox {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  gap: 10px;
+  cursor: pointer;
+  place-items: center;
+  position: relative;
+}
+
+.oneMovieBox a p {
+  transform: translate(15%, -30%);
+}
+
+.oneMovieBox img {
+  width: 130%;
+
+  max-height: 409px;
+  border-radius: 10px;
+  opacity: 0.7;
+  object-fit: cover;
+}
+
+.oneMovieBox img:hover {
+  opacity: 1;
+}
+
+.oneMovieBox a {
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .oneMovieBox img {
+    width: 100%;
+    max-height: 409px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .oneMovieBox a p {
+    transform: translate(0);
+  }
+}

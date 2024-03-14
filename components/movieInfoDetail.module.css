@@ -1,0 +1,35 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 50px;
+  margin: 0 auto;
+}
+
+.poster {
+  border-radius: 20px;
+  width: 80%;
+  place-self: center;
+}
+
+@media (max-width: 500px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+  .poster {
+    display: none;
+  }
+}
+
+.title {
+  color: white;
+  font-size: 36px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+
+  gap: 10px;
+}

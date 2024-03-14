@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.button {
+  margin-top: 15px;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.copy {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
