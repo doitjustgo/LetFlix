@@ -21,8 +21,8 @@
 　ㅇ (데스크탑) 영화 클릭 시
 ![image](https://github.com/doitjustgo/LetFlix/assets/24933367/56209337-5b91-449e-9b87-a2d36d5c9508)
 
-　ㅇ (모바일) 메인 홈페이지
+　ㅇ (모바일) 메인 홈페이지  
 ![image](https://github.com/doitjustgo/LetFlix/assets/24933367/f9cf1843-2580-4f8e-8a21-b95dcf24f65c)
 
-　ㅇ (모바일) 영화 클릭 시
+　ㅇ (모바일) 영화 클릭 시  
  ![image](https://github.com/doitjustgo/LetFlix/assets/24933367/58b81be8-1921-4ef0-a530-c8d0b27351e0)
