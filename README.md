@@ -1,7 +1,7 @@
-** [LetFlix] - 영화 정보 확인 및 예고편 관람 사이트**
+** [LetFlix] - 영화 정보 확인 및 예고편 관람 사이트**  
   ㅇ 
 
-ㅁ 개요
+ㅁ 개요  
 　ㅇ React를 기반으로 NextJS14 프레임워크를 사용하여 개발하였습니다.
 
 　ㅇ 한국영상자료원 API를 이용하였습니다 (https://www.kmdb.or.kr/info/api/apiDetail/6)
