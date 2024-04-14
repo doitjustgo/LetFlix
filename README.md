@@ -15,8 +15,9 @@
   
 ㅁ 화면 구성
 
-　ㅇ (데스크탑) 메인 홈페이지
-![image](https://github.com/doitjustgo/LetFlix/assets/24933367/9738a739-29e9-4b74-9907-bc15036df058)
+　ㅇ (데스크탑) 메인 홈페이지  
+![image](https://github.com/doitjustgo/LetFlix/assets/24933367/7abb516d-6911-4f7a-8b5f-12d405bfea41)
+
 
 　ㅇ (데스크탑) 영화 클릭 시
 ![image](https://github.com/doitjustgo/LetFlix/assets/24933367/56209337-5b91-449e-9b87-a2d36d5c9508)
