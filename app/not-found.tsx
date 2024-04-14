@@ -5,5 +5,5 @@ export const metadata: Metadata = {
 };
 
 export default function NotFound() {
-  return <h1>페이지찾을수없습니당</h1>;
+  return <h1>페이지 찾을 수 없습니다</h1>;
 }
