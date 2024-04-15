@@ -1,9 +1,9 @@
 import styles from './page.module.css';
 import Link from 'next/link';
-import { API_URL, getMovies } from './apiurl';
+import { getMovies } from './apiurl';
 import Image from 'next/image';
-import logo from '../public/logo.png';
-import SearchTitle from '../../components/searchTitle';
+import logo from './public/logo.png';
+import SearchTitle from '../components/searchTitle';
 
 export default async function HomePage(params) {
   const movies = await getMovies(params.searchParams.title);
